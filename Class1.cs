@@ -25,7 +25,7 @@ namespace MONCEF50G
             Instance = this;
             eventHandlers = new EventHandlers(this);
             RegisterEvents();
-            Log.Info("Mayhem plugin enabled.");
+            Log.Info("MONCEF50G plugin enabled.");
             base.OnEnabled();
         }
 
@@ -34,7 +34,7 @@ namespace MONCEF50G
             UnregisterEvents();
             eventHandlers = null;
             Instance = null;
-            Log.Info("Mayhem plugin disabled.");
+            Log.Info("MONCEF50G plugin disabled.");
             base.OnDisabled();
         }
 
