@@ -54,7 +54,9 @@ Zombies (SCP-049-2) gain special abilities based on which SCPs are active in the
 
 - **Issues**: Check the console for errors. Share them on [GitHub Issues](https://github.com/dzarenafixer/BetterZombie/issues).
 - **Ideas**: Want new zombie powers? Suggest them!
-- **Community**: Join the EXILED Discord for SCP:SL plugin tips.
+- **Community**: Join the EXILED Discord for SCP:SL plugin tips or join this server
+- **https://discord.gg/czEeTkwe**
+- **https://discord.gg/Nq36mJKx**
 
 ## Thanks! 🙌
 
